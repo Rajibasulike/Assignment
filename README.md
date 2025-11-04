@@ -1,6 +1,6 @@
 # Assignment 1 - Basic Python Concepts
 
-This repository contains solutions for Module 2: Basic Python Concepts.
+This repository contains solutions for basic Python Concepts.
 
 ## Files
 - `assignment1_task1.py` : Program to take two numbers and perform addition, subtraction, multiplication and division. Includes input validation and division-by-zero handling.
